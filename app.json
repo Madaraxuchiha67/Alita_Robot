@@ -1,17 +1,17 @@
 {
-  "name": "Alita_Robot",
-  "description": "Alita is a Telegram Group management bot made using gotgbot and Go, which makes it modern and faster than most of the Telegram chat managers.",
+  "name": "Eren_yeager_7_bot",
+  "description": "Eren Yeager is a Telegram Group management bot made using gotgbot and Go, which makes it modern and faster than most of the Telegram chat managers.",
   "keywords": [
     "telegram bot",
     "group bot",
     "group",
     "manager",
-    "alita",
-    "alita_robot"
+    "Eren",
+    "Eren_yeager_7_bot"
   ],
-  "repository": "https://github.com/divkix/Alita_Robot",
-  "website": "https://divideprojects.com",
-  "success_url": "https://t.me/DivideProjects",
+  "repository": "https://youtu.be/dQw4w9WgXcQ?si=s20N56DMpBCK-u7H",
+  "website": "https://aniwatch.to/tv",
+  "success_url": "https://t.me/AE_Anime_Era",
   "env": {
     "BOT_TOKEN": {
       "description": "Your telegram bot token, get from @Botfather in telegram.",
